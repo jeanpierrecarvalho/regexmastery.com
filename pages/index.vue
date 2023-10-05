@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Regex Mastery</h1>
   </div>
 </template>

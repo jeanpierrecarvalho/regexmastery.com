@@ -1,5 +1,12 @@
 {
-  "name": "nuxt-app",
+  "name": "regexmastery.com",
+  "version": "1.0.0",
+  "description": "Improve your regex with Regex Mastery",
+  "author": {
+    "name": "Jean-Pierre Carvalho",
+    "email": "hello@jeanpierrecarvalho.pt",
+    "url": "https://jeanpierrecarvalho.pt"
+  },
   "private": true,
   "type": "module",
   "scripts": {
